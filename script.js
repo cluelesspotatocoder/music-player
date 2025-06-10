@@ -23,15 +23,13 @@ const songList = [
         src: "items/maskoff.mp3",
         cover: "items/maskoff.jpeg"
     },
-
     {
         name: "New Jeans Remix",
         artist: "Jiandro",
-        src: "items/New Jeans Remix.mp3",
+        src: "items/newjeans.mp3",
         cover: "items/newjeans.jpg"
     }
-
-
+    
 ];
 
 const artistName = document.querySelector('.artist-name');
