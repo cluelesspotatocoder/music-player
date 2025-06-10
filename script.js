@@ -28,7 +28,7 @@ const songList = [
         artist: "Jiandro",
         src: "items/newjeans.mp3",
         cover: "items/newjeans.jpg"
-    }
+    },
     
 ];
 
