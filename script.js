@@ -27,7 +27,7 @@ const songList = [
     {
         name: "New Jeans Remix",
         artist: "Jiandro",
-        src: "items/New Jeans Remix",
+        src: "items/New Jeans Remix.mp3",
         cover: "items/newjeans.jpg"
     }
 
